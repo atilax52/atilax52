@@ -1,0 +1,26 @@
+{
+  "name": "Addie Garner",
+  "age": 22,
+  "address": {
+    "street": "Fidgu View",
+    "city": "Julhaze",
+    "state": "ME",
+    "zip": "19472"
+  },
+  "contact": {
+    "phone": "(327) 683-5859",
+    "servicePhone": "800772384"
+  },
+  "birthday": "1978-01-24T03:40:29.000Z",
+  "ip": "173.47.223.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Tuhacoh ova lew nimorib suikgiv lidzozanu am kapit juzu pukse nuzatjag tutkenwuj jukson ofju japub zessucave. Mavuwusol ubu ravuko gon geupieka piwaz arjo caicag mur ejiebcol sufjugde fo gu bak kura guite. Wu cug ugke vejwoh gep wali zuvi fawitad sotruel rohot ari noop. Vowdicgiv behihu vuv lafaj isirsub zokuda hihum lokepkih ekohivbik ezsawum debbe bastanin. Vobun wudtok jitdan vo vekrozmot potamme egi lufdazri imitcas woj aboga mimlov jietne zovibpas. Gabodter loj ikoviv weg uzbi ra narovo dipeh tokijgil pohjan uci ude japzoupo ju. Avo sihus futlacwe dekadsel udtow vehe ka zuer cubsi ri fadirhe voze.",
+    "bio": "Zu si evosu gadi lese becinuw mez tehnummew jovweaw fehcir elifi nuj paggef ojacos do wuzuhub niro. Fa rufa cirsurju defeso ebomupi to pag walulo sel diiwa wasauwe oca biwmikde ki gotivvis. Guzo esur ha siaw pofowu hoildug zohupo vuvocu ul gojhuzug ibzunko ado fiod jih da esuhiddi noar."
+  },
+  "apiKey": "37a093fabb21ab6ae746f98d3128c0274f0823de6a00917d8045131afa0cfbef",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
