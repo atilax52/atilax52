@@ -1,0 +1,26 @@
+{
+  "name": "Terry Johnson",
+  "age": 49,
+  "address": {
+    "street": "Apew Manor",
+    "city": "Bulsosude",
+    "state": "WV",
+    "zip": "36322"
+  },
+  "contact": {
+    "phone": "(277) 992-5576",
+    "servicePhone": "800672245"
+  },
+  "birthday": "1995-11-17T22:55:31.220Z",
+  "ip": "22.25.92.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Gew rav apnonuk do ivo owdur putuv ri jiwijvo kozhe napdeh rone. Jiiceled tovbahsav unguc lawtujju jomfi kusna dabewlo avce hiwben uk gahe zozigguk bat go jioguzi re izokejkeb ta. Ze ikbofus wukiena vu ludopo siutgis ikjakara buh cadafruf liz kabarib uz kek rese gefonud.",
+    "bio": "Vugpopav pe wazet webeupe koh ojemuweg veg medniek co pudih pajek nobwif so noebwin at rol. Va cipecome du gaf tor ce obfa civeziw caafubam mavbo cezoga pawis jognajmej. Jupu rual ociver bafic rac vudil lulmadeze niinale rucasda riprut cobah ufvebor buhegoz no kes jolreha weomi bi."
+  },
+  "apiKey": "5d7866edd21be8e44954f13d562a480d009b0a7e2414813446353e4cb0975532",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
