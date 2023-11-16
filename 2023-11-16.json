@@ -1,0 +1,26 @@
+{
+  "name": "Jose Hall",
+  "age": 32,
+  "address": {
+    "street": "Ihbu Lane",
+    "city": "Jospunej",
+    "state": "AZ",
+    "zip": "58192"
+  },
+  "contact": {
+    "phone": "(425) 956-5188",
+    "servicePhone": "800118528"
+  },
+  "birthday": "1977-08-25T05:46:36.275Z",
+  "ip": "179.161.109.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Vip liba bibif tegizsis gacsegi lu fupaku ke sidsakjus hus ronan heud rinlevmuc ki feuvo cizome lesfut. Fogafa gopdi tav hiniselas pulzowen lecere aworice cicap risebek suleho zorru lovruj atepunpur hiarda wiz inazaja diceji cavwi. Ire nuhheboh rawu nitubo oheezoniw siohecoj gizej demcele uputisiz ojober ze ucvutos sa rera nazif. Rozib ci dujo fuawahed soggidame ceg genudu ti lus ce ranurcu fegon varvavgu meg izesumasi ciwerze de.",
+    "bio": "Cahegem dew sezbuvdol papses ce ewigagnun jop zisvenan zu bujwebeg toucho ahnarkod piuneir jaojba po wede. Kekapi wihno tad ojeaco vud toh jap heuvi ere posmazef vogam reckuzke zun vuusle. Cu vewpuga cosgu tenraw rukpowcug ruwoz rese julurcol toc mivuat rokja likveczes su pu diguh gefer. Naru uve ezube linoz biku uv gef it dezal kivuc tat towguer. Karitud hukpiova gikfuhat mufed toli riw ru dicwak rof mi aspi lo iga men fe ma igul japva."
+  },
+  "apiKey": "c20922ee5adcd3af4c939525c102a459ff87ff7292d5ef06a8aee2afbca50eae",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
