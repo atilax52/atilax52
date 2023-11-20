@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Brewer",
+  "age": 30,
+  "address": {
+    "street": "Fadve View",
+    "city": "Redevkad",
+    "state": "NM",
+    "zip": "67988"
+  },
+  "contact": {
+    "phone": "(664) 326-4446",
+    "servicePhone": "800775773"
+  },
+  "birthday": "1986-06-29T07:20:20.913Z",
+  "ip": "251.162.106.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Kafoh bat ji cuktibto ekufa vawi nefleze son cohzutzec go malo inoju. Ho zama ibani ibba le zohan rid caapuupa jazvisse ug jolvaw du emice mospiruh azizaac igiod imocifi. Koimli uga tegeg bisuleb wooga kicew ki nabi ulmu oniruvmav li dopmov kadevpam zu jaw jegbor monwah hanjecaz.",
+    "bio": "Pulluaji me lalgu emvase kakkep wipura simca liwigwo hizogsoc ve pikrag bagzeawi nof vodjic. Ap huf kilcuniga pojpavep utkuof vimpuvboz we gafni it gu pig tob ho ok tu ecvez odewes. Sitgip tozbewifa us fo ebovaufe omvi ahahes abhi wi gedsanlop getotovu wezkozaj ego. Pagijrej falmah ze ge dejew ciat darizufuf la vig ali teob norda bol ti bajtef. Vutkucur firku puv tidhuda moceru bicre obi okla daejasih gejzop tebdek riiza. Igseg pegvo izihimfa nipzumpe kaceanu ozu oziselrap lepes bi dimig fur ha ubi ja. Macti veh ufu soshe ju cuhelo sofa fiwe inewaz wa gerelri ofo buran gonevi puk nuz cu maf."
+  },
+  "apiKey": "f64b8216f42f7d8cf86b232fb9733b0f795d1baa239add1c99c73a6e72d29aba",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
