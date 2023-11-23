@@ -1,0 +1,26 @@
+{
+  "name": "Tom Freeman",
+  "age": 31,
+  "address": {
+    "street": "Goruv Pike",
+    "city": "Guonode",
+    "state": "RI",
+    "zip": "29833"
+  },
+  "contact": {
+    "phone": "(971) 488-6745",
+    "servicePhone": "800555318"
+  },
+  "birthday": "1959-09-05T22:22:32.811Z",
+  "ip": "63.29.43.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Fafit hekla puheder komhug mi ec zic hun goibo diuw jipiho fij. Ruce hu ajamogfiw gajgezan zuwzetil opava je uh dakseagi ej ni foca ev wirmodka ewca. Ji jacap fonrime me ver ij riw bo fapnohej garufo se rub adumeibi jo fuvvov nacik. Muavieko so elaanov vigzaze wif alevamjet noli zamnojde wi jo wuduzu hu pugzo. Hu bof wadkiwul pofutu go isdo sezagtev ri tulis jojgo hiwi muhhav. Gubeci guvormo ifu so opasu ze ge sidow rebbid uhuluthu fofuso ekomek jihufu golu musinvez.",
+    "bio": "Gananse tefhu ohoapbo zuf velu jakhit mufli pi udji uwuti abacidne cudikuzo sor bib lioda upelon. Bat zulinhob ti fad mahango zizaom aliselog bawpez ruvkemu et pobip hikpipuje nupjul dawicde fepadeh hukirur ivieb. Efa mesme tioh sosbotete gutwod arobub epetermu wujidboh sulcaanu vo atifa pocu om talisu feubota. Fokohe jugebu izidievu webuhiw mer hipebwo miajukaw sak waukige zam nov vituju tagurobi."
+  },
+  "apiKey": "a5bc12698ffd6171c8377e417af09efd9a6cd7a31dd9adec161a66fa7b5fab06",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
