@@ -1,0 +1,26 @@
+{
+  "name": "Timothy Walker",
+  "age": 24,
+  "address": {
+    "street": "Rukta Ridge",
+    "city": "Wijazkuv",
+    "state": "SC",
+    "zip": "12388"
+  },
+  "contact": {
+    "phone": "(522) 954-6359",
+    "servicePhone": "800747226"
+  },
+  "birthday": "2001-02-28T21:14:19.157Z",
+  "ip": "83.21.110.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Jusdatti wabaje kobez awucirof bah dew zuw irilet dolo jimeczo pa mav bav meisave. Mikcalsi guhesdu noagta do cesnuz kavehmet madeksu odlab vitaz melgemfuk zaduhis woibbuh hisefu bewe ribres kennaani. Uwa gu mopar tosse lin cahbehut gob bilfi igo kirirum owdo leb minac.",
+    "bio": "Vazepmu kaszefmog zuzde uniet rejefo jassipsim zohow usecsij ja wif zagihsut zaf osogumab hivujaapo besgo. Tuslumum reuh vizsohcej lizezuega bus mi arotavic ev zuca retun sizjole megeveb bu jes fe fepruwi pi. Tilov ulbij ne orefigi dojitos zak taen dongiw vi kidfupoko gib kifuh bu tefu fealoik mabtilli."
+  },
+  "apiKey": "0c52c73614a9bcd25e3a69c24b53daa3af3ffc973a837dd80d14dce229b08eab",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}
