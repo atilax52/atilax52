@@ -1,0 +1,26 @@
+{
+  "name": "Winnie Pierce",
+  "age": 61,
+  "address": {
+    "street": "Kujag Key",
+    "city": "Ogkevefi",
+    "state": "NH",
+    "zip": "20636"
+  },
+  "contact": {
+    "phone": "(689) 974-1906",
+    "servicePhone": "800119883"
+  },
+  "birthday": "1998-08-07T05:41:53.578Z",
+  "ip": "133.38.230.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Nekhez uvo zilasho tazaw ovo iporiwuf cek guwci kinetvu ora hat cizihce. Gu wojak fuwed pavud guocitor bu jesuvvu gaw nahcoset fusi demnaruh ja fikika ikfegja vonegnas. Foktohsi vecorav fumdev lodor dojohalo pepuv ce cemitozis pe ma ak obgomheg ro.",
+    "bio": "Cizelgig hipaih cu kevi maddukuj de dihzodog mozufkid si gev cuivpi cuvi nawa asneoto ettir. Uk nol fimmuhe lokagfo huvid ud ju ne ek ukcos conupko fef. Lak cedjiug deevo vopleziva wajdarin hoffe emvo puvdam ogdi alfivzup gelso beg utfom uflunjo jobke. Hif pijoel ojakaotu ohonedif vulateg ho lihmudun caakijos keef nobepi joarami nopbo ropindo jic isoimteh."
+  },
+  "apiKey": "696019e4e3552aeda009625e314141fb45cd621549aae195603d05d54ef40d1d",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
