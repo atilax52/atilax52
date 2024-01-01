@@ -1,0 +1,26 @@
+{
+  "name": "Dale Sanders",
+  "age": 30,
+  "address": {
+    "street": "Konom Lane",
+    "city": "Lacugo",
+    "state": "AK",
+    "zip": "58445"
+  },
+  "contact": {
+    "phone": "(865) 329-4104",
+    "servicePhone": "800713496"
+  },
+  "birthday": "1963-10-15T04:39:48.008Z",
+  "ip": "60.57.60.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Uvudof utaarvo ji if losub derogehe burteinu hen fuvad je okico mikfok. Tonojsa netu aj fi uc ulmelosu zabzu sehidmav wo mordiref wibed omohu hu ma. Lercari wiifuc lekaf sedsej mivnuna ojnovuw guti nivu do wode juzisu wibikler zanukik vaowgu jed tawtishoc.",
+    "bio": "Kewela bacsa ut roalamun uhhelom mer veribku emeviguj vobogo buh zacuol zu fukelba wemigge lepob vugbacon siosha hulham. Oh giboci kifta duc netatu dod gi ahbaz dic kasovhun ges vor gaesa hultetfo ode ra ate. Jo izowuv nuztaofo digatze ni uhtoubo fuhe pu bam zepo ohhizwar wamvov zu lat. Zi hugemce bah rin kudes roj guzeufo otu owa zeegpa hozjopbem nitbod vu aro zophaj viw. Re hog ajovim po ne pe dit evu gepserpok kovcop ot ni nu. Udtuclib ohare be tutnojtan ejwidmon futbe fud befas fesu jetev man cowek wano wievehew al rasafo. Go kawi hup cih vu oh luzfop tamol vepaji vo sikto ujufinriv ru."
+  },
+  "apiKey": "4f2a47980a996874cc6ee93a30bfb0d7c16c579452cf89f1e62816d07b88187f",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
