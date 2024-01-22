@@ -1,0 +1,26 @@
+{
+  "name": "Ola Ray",
+  "age": 37,
+  "address": {
+    "street": "Zivke Lane",
+    "city": "Jajool",
+    "state": "FL",
+    "zip": "84325"
+  },
+  "contact": {
+    "phone": "(555) 312-9892",
+    "servicePhone": "800274978"
+  },
+  "birthday": "2006-07-25T13:46:12.089Z",
+  "ip": "86.58.21.204",
+  "foo": "bar",
+  "profile": {
+    "about": "Ozle gis runer zahu bimos tiwfaf saw arwuc kantunwim il sad erodabmi tu. La riegupiv dazic tuneba adu domuzla ij gelhi va nemnizi uzapabiv apeigi nuovuulo gutta uvtiksim. Inepi ephif rone hokoli ito tocuhmu zoctum kin ilaheab denof lupivne ala cuhbijza ocaet.",
+    "bio": "Feod koali fidulazad utonelni solarib lahavlas uvbedo bo jurgaz ecutovkac moj fuup cuh duw ci hu. Nihlel kif him zil moemu ihzulat le ebu us de bajagejaj tan tetesma pajomez pibri koohfu. Niki nip sumov fuhnidjem rikubwac taewda to harif onizek defbe wormaor lotad cased niwoeli muk."
+  },
+  "apiKey": "93600957af186f86329f9e4b84a6378b07002b1ec996d9cbcdc1023e5bcef8d5",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
