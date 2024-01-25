@@ -1,0 +1,26 @@
+{
+  "name": "May Wong",
+  "age": 58,
+  "address": {
+    "street": "Puhak Pike",
+    "city": "Doffuzi",
+    "state": "AL",
+    "zip": "31915"
+  },
+  "contact": {
+    "phone": "(954) 515-8505",
+    "servicePhone": "800881623"
+  },
+  "birthday": "1999-09-08T18:22:40.933Z",
+  "ip": "36.145.101.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Bouj votmi rizif nodfa ra rak hun samwez nanjilfew ebro kuk mulu obimid. Gu nu cetca tejcujoj cop hab veh goc gegobmav pusize og vopetemuz hav boruzhek komelo siif witbovpa. Ronsuj ilaj ugo gu opuohium ij hin sofi zahfat palli rusuv cukurib.",
+    "bio": "Waftitu ok fo jagtakdeh fet nu nosomvi madce en ofuigcar is huwozuf juotibit eru fahzile noc. Koziwni botkoloz hosusguf micbu sizofwen rew avu pi igogez eru seibisad patcizuha nile tupatne urtawga lij bek eharoag. Meezlet luot pero giefogaf vug vikrelve lucgabluw fis juc zu burev bewo kuh usrib gozoeca lirus vejjekuz amipudbi. Neadi moenki sor taipowa sun ulgu codam cureho ifsigam wuej na tinbape ka lu hewejahu goc fu."
+  },
+  "apiKey": "1138ab12dba6daa9fd60c724d9159d80955f8ee1945fed10f4969bf6e0de44d9",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
