@@ -1,0 +1,26 @@
+{
+  "name": "Brandon Lane",
+  "age": 23,
+  "address": {
+    "street": "Nebru Drive",
+    "city": "Vahevo",
+    "state": "MN",
+    "zip": "47016"
+  },
+  "contact": {
+    "phone": "(813) 580-5186",
+    "servicePhone": "800377746"
+  },
+  "birthday": "1992-12-12T00:53:02.539Z",
+  "ip": "194.149.128.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Ojicem zecapiz lohik ujuuwu ipo pahim teporvih ri aka ni tothacec tucbum viis iv afzim. Pe od jurewut bu kizowov efoitaow ugu ve vow pafa cusu aspivam eje fe te. Inacac miitepu sid ril kivagleb par pizvajte nu san tetillu sozuweh ewecejo. Hele we tug luc di rucekaf ajpekoz rudtoshe kiuj iganfek ficvuvip obso fiuh ciknimi di tokisoc ribesti ne. Cik vehigpuk cukidipe po boop muc dif isuro cupuci obmeggil tezosgew gipro nunup nujrorad. Hu gicji bokatju celruku aroatada ka coodenus lehzovha rehdo gu rac tolwenfiz ga ana muclo uz jovzavba nemufhu.",
+    "bio": "Uwe lu zozowhek wi si caz dod wuscoaho be morezfi lawuutu warajpe jofij. Vior guofeza wilkej casavo tuvomgor esafo woccuh ezze otcatav vegec kirsasvet ra lo zasek. Ram zomwopu bowebja rozucfik zuoroho ben naw ewamag uzibub duk jefnu bicjik aptol feubnov kuwug luretin."
+  },
+  "apiKey": "b4c072fdfb6a1dda6e2f745d9e678861054db2cdcc5b755123d24ae8a5388e9a",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
