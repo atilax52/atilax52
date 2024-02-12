@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Crawford",
+  "age": 23,
+  "address": {
+    "street": "Kapu Key",
+    "city": "Naoltul",
+    "state": "NJ",
+    "zip": "74410"
+  },
+  "contact": {
+    "phone": "(334) 494-8063",
+    "servicePhone": "800357849"
+  },
+  "birthday": "1998-05-08T10:42:49.863Z",
+  "ip": "103.85.6.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Hepnam asohiki loh gowvad pas sev apjajkis net juccecip em hojurhe oncuvluk hicotu cec olu wit. Zene jo ku zoc sogake sedce zek apumu usogoro jovnor osuifiede ev ijkebve. Ga va kerot jevujzow jofguwfaf beepa bi pod ji picecin sopevo fahdepdub dosavi tavkumo ibaaca sap. Cocu gogfohki ba ivneego ah cafikikun dusisi ta tif gi sercelza hekaem behuwetih viput. Docep dacmir apaka zep cavoc azaho towda nobkam vefpaja gek wacamo mi biwbatemo ew cupoeka fag. Muroni bav vur bi hu kuzti kibad rodrupi ozsejuj hotga vigilema tajmujhu gebsu jamopnes. Jizih iterogo gibolve nat cevumjo kiukkef bu gilazes noveviji uke vafbed dacdirro mez sup.",
+    "bio": "Las wu jokgar sibpefce nekmulgu wawukkul adouhvod bi nul jin hesrubud giivsa sinoki ni lo. Nohmiw zemabaaha jiferez umete big iziugeto nopcakge ug fahdarop hover udhacza upujepod fo iziceef. Bav osij ido hobmesa zo zokapew kil jefoubo roh ruv epmear vaf. Bi ohlenul imemopgi jut finteg ejonelam gu ninda udtu il zaotuho bulejem. Hob hunzaina amezgos se uceosu fame odoromer nec sibo le ibjebku cosgak dagke ficje gesdecu zopavtan atihip. Fitju ejwedtaj gu pazefrol dimol ji bujiri davatu ag kosmaepa fubewdaw jafol timtiwaw apilih gek."
+  },
+  "apiKey": "ad9af266a93132cb9170ce344ee1e993a25bc74042b222bf878baa1296726637",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
