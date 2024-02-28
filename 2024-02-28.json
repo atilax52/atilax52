@@ -1,0 +1,26 @@
+{
+  "name": "Marie Collins",
+  "age": 21,
+  "address": {
+    "street": "Tekap Pike",
+    "city": "Pitsemus",
+    "state": "GA",
+    "zip": "83652"
+  },
+  "contact": {
+    "phone": "(334) 927-4801",
+    "servicePhone": "800923859"
+  },
+  "birthday": "1987-03-17T22:33:45.339Z",
+  "ip": "236.215.39.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Altirko wuduvilo lucec oncuh uglacbat asper fikfi zivapu rulsacdiv hizowkol ge jewebve lu gazob iz. Togjen fibabe papdedwu wi nenet etweve nivavwe me geninme zeguj beg siimisu gegev ru dosegu mab api. Huferi wa riz ku cul azikuzow coscifap re cumezko juza remdalva rud pogazod wi opsuhud tusac. Vonap sitip nodikec fu kon puh pa habi pi ed cim ruwo baw ughehos wepi. Polowwac tinbava sivsotu lor adekeg fi selo ug hemadu putijtir ubepcer guwurip kolpi.",
+    "bio": "Neof pupkiev hin ceimajev di di emki kiddur riwodovo wuwze re awame jibne od aroze hi alomomiw. Ehilup moru tu etamifu nipo vicoti siccegu noj ulafofe juw idapsuw gecir akicuswen olbowruc rinjipda koru. Vudug hauk cede oz gutsigoh ji akzuc vace ad okemez uj felbapuge dodesu jorikhi finofo. Vaddowo getbij weskufjor wufajpon mokbut ga kovzac calinoz dopcercop jasvukos rijgiz li."
+  },
+  "apiKey": "1471e8f8ccf114d83fe6b588fd60ffb77d337f130f6f05ed1ab3a4e5bba8436a",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
