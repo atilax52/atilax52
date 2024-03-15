@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Gibbs",
+  "age": 39,
+  "address": {
+    "street": "Cawut Glen",
+    "city": "Osluvco",
+    "state": "ND",
+    "zip": "76283"
+  },
+  "contact": {
+    "phone": "(873) 745-5820",
+    "servicePhone": "800426197"
+  },
+  "birthday": "1997-05-23T13:58:33.328Z",
+  "ip": "138.238.230.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Hog ado rekcof leneipa alazfoz gopibpo unihip zil fogcimku omicif ja sik diow. Mam wut he kebwig becakmo ulu efawog vih hoofli rozow aboti nepafjub jouz jaolu fidero. Abu efe hazjoil fokunmec fos zozo monid sopazik re cuj nekmab lig kig re ufaiwuti.",
+    "bio": "Co esi sofpe pal cilseb zegzija kavcu awtoh mi kemnezug ula vuk purwacik ukhepa ozedansu budte ehilesit. Cedzuwti ezuhi od eh ij wa baak jo pupinigu heluf kis pin. Gazniruf ebcehu orogobma es kufda utwuvoz foovo mease isokak hel dekelkup ugi."
+  },
+  "apiKey": "5fc5ae45401b84630ab8a70df453bb359a3ecd4db32f3952b182f00c956a6cc5",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
