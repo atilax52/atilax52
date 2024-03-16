@@ -1,0 +1,26 @@
+{
+  "name": "Jay Riley",
+  "age": 24,
+  "address": {
+    "street": "Zulo Drive",
+    "city": "Masrini",
+    "state": "IA",
+    "zip": "36303"
+  },
+  "contact": {
+    "phone": "(725) 840-5895",
+    "servicePhone": "800161819"
+  },
+  "birthday": "1985-09-11T09:31:05.938Z",
+  "ip": "230.199.188.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Wiszafu govtol fir paftedan riczi zuhhise mirhuabi zinho bi hokmukpe kobo monag sewetajo agezoima bavgu. Ifpulop ulva vipna wap obcalepu nal dib afhoha lomukez dobeg roginum il wugzaklip se lezje mapiw. Uremkas sud cazahtu kumpasa bidefne cicekpod co boidive kaadipup wo dul gadvif.",
+    "bio": "Ajoemwo decjovov ewesujec ogasij vuboij utpicsoh zojin bezotka uriuvis acebes ro usre fopofnuh lew he hozgu uhanugpi ele. Fuz kir oceve as rultiv bikudhej dudhok tu zif nan na okimesfa vi cu puluh kagibja co. Epwevnu mam zehahoono etu urbit jazdumgi fu fob vahro fokfu sopos adojefkub."
+  },
+  "apiKey": "2a63e1b3b5efd6e651135a2752e4742ecb7be9f1a3a0845eb010dcf051267809",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
