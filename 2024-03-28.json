@@ -1,0 +1,26 @@
+{
+  "name": "Ina Myers",
+  "age": 24,
+  "address": {
+    "street": "Camde Boulevard",
+    "city": "Rahpile",
+    "state": "RI",
+    "zip": "35130"
+  },
+  "contact": {
+    "phone": "(431) 549-2988",
+    "servicePhone": "800379755"
+  },
+  "birthday": "1992-02-22T04:44:25.607Z",
+  "ip": "100.118.66.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Podi ahfafi sez ihousevan mib vegoco fuzhiosi uwko ger gome fig pud rec tak obipakju su torzi. Oziva hebedhaj ifeguve mi zidlohko lavvo ijraccip avaruwu vakro zewewu moscu guhzeho jetidim hugsarico. Hipi omzazcu zozemo ciwnaaw si pomfuude tusdipvud po pepok mujda nugfi kojovuli bir somolo vejotes woafbu ciufi uhamaloki.",
+    "bio": "Rewahcet oga isdo fo fuvipes bitel jumje jofu wik ucvut luso anamez kesmidih vu kuto bepocepi afoisin cula. Gudoz rukbogiz pamneiti vo iwekuc teipoew ovoci je zun puwfe lu lak cetbojgi. Fajetfu sage ku omo dabu si wulfigwib gezvev pe seune koc jiv bu irid fuupo neh olifiv. Lalkak du focive dafnuvod ufwato sit majbake casita dorarkik hosepa kecicgeh no vasbewek."
+  },
+  "apiKey": "bfeefc1028f2e943c51e8d15e206e91334d00bc2859c520473f0b54577112110",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
