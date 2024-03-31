@@ -1,0 +1,26 @@
+{
+  "name": "Justin Sanders",
+  "age": 28,
+  "address": {
+    "street": "Rihta River",
+    "city": "Usguam",
+    "state": "AZ",
+    "zip": "29815"
+  },
+  "contact": {
+    "phone": "(409) 578-3833",
+    "servicePhone": "800286989"
+  },
+  "birthday": "1986-05-17T05:55:50.402Z",
+  "ip": "111.204.223.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Inawu nizuf lu hatwe ilejudsam rigcedgi rizu ac led ton ab fufez gu zicel. Di dodutin ocuji hetmeun sid icupof zonwus atpo sejwic gegilme fako va ub ra dotijo eg zuznawem. Gur ho muktit umhad zuc fuifa lita ba infiwbo ojvisabu bepaho moctoazi jejpitwub ewu fula. Bagpoj kageg secgooz ipu dicec niasane bohilumu zer memiak so wubwun gifna ozi af karciso kekuku.",
+    "bio": "Avdo fi bargaum mon zaz vezhadiz bozis ca ocejajes evucu bu meacewu ifa. Moha li citmu zubaoc hibkuz ajawictu necsit ove vat bovu re icnitan fev pece ibe kocez gijepu ceijda. Legomiz ri dojod acudap bated kivliwga su ef kalfil batnu wefboku fegafma evaj jasij bi. Toagidih si vel ketirunez ir cidatowiz se ow poibeoca lotu win cap meaftah gu pic idirinul ur."
+  },
+  "apiKey": "5c1aa0529fdc83479d9276c495f45ddc3f717ed1b9ac423e165fa7f1e3a70d2d",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
